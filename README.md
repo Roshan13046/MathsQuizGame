@@ -45,7 +45,7 @@ https://cppsecrets.com/users/561797110105107101116115104971141099748485249496410
 
 ## Contributions
 
-Read the [Contribution Guidlines](https://github.com/aniketsharma00411/algorithmsUse/blob/master/CONTRIBUTING.md) before you contribute.
+Read the [Contribution Guidlines](https://github.com/Roshan13046/MathsQuizGame/blob/master/CONTRIBUTING.md) before you contribute.
 
 You can also create an issue or [contact us](https://github.com/Roshan13046) if you have any doubts.
 
