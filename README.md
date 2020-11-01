@@ -14,7 +14,7 @@ If you find any issues with the currently present implementations, feel to corre
 ● Developed for students, KIDS for entertaining children while playing Maths Quizzes, etc.
 
 
-# Functionalitites of App:
+# Functionalities of App:
 
 The different functionalities of my app are as follows
 
