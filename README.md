@@ -4,7 +4,7 @@ This Project is made as a part of Learning  Web Development.
 
 This webpage is made right from scratch to create a dynamic Website.
 
-<b>Tools: HTML, CSS, JQuery, Git</b>
+<b>Tools: HTML, CSS, JQuery, JavaScript, Git</b>
 
 If you find any issues with the currently present implementations, feel to correct them or create an issue mentioning those.
 
@@ -12,6 +12,7 @@ If you find any issues with the currently present implementations, feel to corre
 ● Developed as an entertainment platform for KIDS/Students
 ● Architected using CSS, JavaScript, JQuery UI, Local Storage.
 ● Developed for students, KIDS for entertaining children while playing Maths Quizzes, etc.
+● This game increase the mathematical quiz solving ability of students and can be used to teach tables by making fun etc.
 
 
 # Functionalitites of App:
@@ -41,7 +42,7 @@ This repo is Hacktoberfest friendly. But make sure that the you don't spam with 
 
 For info about how to contribute to Open Source and Participate in Hacktoberfest, check out the below post:
 
-https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php
+[Hacktoberfest](https://cppsecrets.com/users/5617971101051071011161151049711410997484852494964103109971051084699111109/Open-Source-and-Hacktoberfest.php)
 
 ## Contributions
 
